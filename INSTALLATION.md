@@ -1,3 +1,7 @@
+First of all thanks for your interest. 
+I never think someone would take a look on this project.
+I wrote this to play around with chrome extension building. 
+
 Install it as unpacked chrome web browser's extension:
 
 It really simple as it is:
@@ -7,5 +11,3 @@ It really simple as it is:
 use receiver.php, other than that feel free to write your receiver.*blah* 
 
 Reference: http://developer.chrome.com/extensions/getstarted.html
-
-It works. It.. just works..
