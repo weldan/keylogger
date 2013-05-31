@@ -6,7 +6,7 @@ Poor man's keylogger. A chrome extension
 Fun with chrome extension writing and jQuery. 
 
 
-Known limitation
+known limitation
 ================
 
 Content Security Policy:
